@@ -1,0 +1,42 @@
+/* this css file is empty so you can create your own styles and coloring. 
+Please take a look at the example file CSS for inspiration.
+*/
+img{
+width:400px;
+height:300px;
+}
+
+h1{
+color:#79a2e0;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+color:#f5a2e0;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+color:#87b0d6;
+font-family:cursive;
+}
+
+p{
+color:#919aa3;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:17.5px;
+}
+
+a{
+ color: #7a7d80
+}
+
+li{
+  color:#777a85;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h4{
+  color:#93babf;
+  font-size: large;
+}
